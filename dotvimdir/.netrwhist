@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/nfg465/courses/cs/3433'
+let g:netrw_dirhist_2='/home/nfg465/CompCons/danger-noodle/src/main/havabol'
+let g:netrw_dirhist_3='/home/nfg465/CompCons/danger-noodle/src/main/havabol/eval'
+let g:netrw_dirhist_4='/home/nfg465/CompCons/danger-noodle/src/main/havabol/classify'
+let g:netrw_dirhist_5='/home/nfg465/CompCons/danger-noodle/src/main/havabol/common'
+let g:netrw_dirhist_6='/home/nfg465/weather'
+let g:netrw_dirhist_7='/home/nfg465/courses/cs/4353/assign6'
+let g:netrw_dirhist_8='/home/nfg465/assign5CompCons/danger-noodle/p5TestFiles'
